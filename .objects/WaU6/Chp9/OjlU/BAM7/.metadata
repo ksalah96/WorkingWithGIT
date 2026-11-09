@@ -1,0 +1,14 @@
+﻿{
+  "Name": "httpsmail.yahoo.com…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "BAM7bLOYKU6CzVC7Vth1Mg",
+  "Reference": "YxqUqPCwBk24zqKtZ4QJTw/BAM7bLOYKU6CzVC7Vth1Mg",
+  "ParentRef": "YxqUqPCwBk24zqKtZ4QJTw/OjlUzlFIJkyr_OLUDklDrg",
+  "Created": "2026-11-04T09:45:36.8689091Z",
+  "Updated": "2026-11-04T09:45:36.8689091Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
